@@ -1,0 +1,2 @@
+Core Folder:
+ -it contains all the core and common features of the app; as the input validation,errors and faliures,common template,..

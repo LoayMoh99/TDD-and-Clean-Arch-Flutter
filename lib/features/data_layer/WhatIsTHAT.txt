@@ -1,0 +1,4 @@
+Data Folder:
+  -it contains all the related staff with data either locally or globaly(from internet)
+	*Global -> API
+	*Local ->Assets,DB,cashed data

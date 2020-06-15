@@ -1,0 +1,5 @@
+Domain Layer:
+  -It is the inner layer which shouldn't be susceptible to the whims of changing data sources or porting our app to Angular Dart.
+   - It will contain only the core business logic (use cases) and business objects (entities).
+    -It should be totally independent of every other layer.
+Use Cases are classes which encapsulate all the business logic of a particular use case of the app (e.g. GetConcreteNumberTrivia or GetRandomNumberTrivia).

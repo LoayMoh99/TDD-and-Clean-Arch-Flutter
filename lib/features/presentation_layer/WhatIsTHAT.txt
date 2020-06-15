@@ -1,0 +1,7 @@
+Presentation layer:
+    -It contains all the UI of the app:
+          *Widgets
+          *Pages
+          *StateManagmentTool :bloc for example
+          
+         

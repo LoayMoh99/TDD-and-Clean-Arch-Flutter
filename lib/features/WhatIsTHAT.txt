@@ -1,0 +1,2 @@
+Features Folder:
+  -it contains all the UI features of the app; as Login Features , Logic features ,..

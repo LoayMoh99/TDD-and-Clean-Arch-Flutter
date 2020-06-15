@@ -1,0 +1,2 @@
+Enities: contain the classes which we need in the logic of the app;
+	in our case NumberTrivia ->number itself,text of the trivia..
